@@ -13,7 +13,7 @@ namespace ConsoleApp1
             int a = 4;
             for(int i=0;i<a;i++)
             {
-                if (i == 3)
+                if (i == 2)
                     break;
                 Console.WriteLine("inside break");
             }

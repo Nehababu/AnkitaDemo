@@ -13,9 +13,9 @@ namespace ConsoleApp1
             int a = 4;
             for(int i=0;i<a;i++)
             {
-                if (i == 2)
+                if (i == 1)
                     break;
-                Console.WriteLine("inside break");
+                Console.WriteLine(" break");
             }
             Console.WriteLine("outside break");
             Console.ReadLine();
